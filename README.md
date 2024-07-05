@@ -62,8 +62,9 @@
 
 ### Quote ✍️
 
+<img height="150" width="150" src="left.webp"/>
 [![Refresh to see another quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/Lakhan-Gurjar)
-
+<img height="150" width="150" src="right.webp"/>
 
 ### Contact me 📫
 
