@@ -62,9 +62,9 @@
 
 ### Quote ✍️
 <p align="center">
-<img height="180" width="180" src="left.webp"/>
+<img height="150" width="150" src="left.webp"/>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Refresh to see another quote">
-<img height="180" width="180" src="right.webp"/>
+<img height="150" width="150" src="right.webp"/>
 </p>
 
 ### Contact me 📫
