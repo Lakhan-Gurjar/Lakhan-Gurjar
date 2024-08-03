@@ -109,6 +109,13 @@
 </p> 
 <br>
 
+### My Certificates [1] 
+<details>
+  <summary>:zap: LinkedIn Certificates [1].</summary>
+
+![Certificate](https://github.com/Lakhan-Gurjar/git_demo/blob/main/CertificateOfCompletion_Career%20Essentials%20in%20Generative%20AI%20by%20Microsoft%20and%20LinkedIn.jpg)
+
+</details>
 
 <details open align="center">
   <summary>📈 More Stats</summary>
