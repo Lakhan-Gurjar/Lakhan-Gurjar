@@ -111,12 +111,18 @@
 
 <hr>
 
-### My Certificates [1] 🏅
+### My Certificates [3] 🏅
 <details>
   <summary>:zap: LinkedIn Certificates [1].</summary>
 
 ![Certificate](https://github.com/Lakhan-Gurjar/git_demo/blob/main/CertificateOfCompletion_Career%20Essentials%20in%20Generative%20AI%20by%20Microsoft%20and%20LinkedIn.jpg)
+</details>
 
+<details>
+  <summary>:zap: IBM Certificates [2].</summary>
+
+![Certificate](https://github.com/Lakhan-Gurjar/git_demo/blob/main/Introduction%20to%20Python%20Certificate.jpg)
+![Certificate](https://github.com/Lakhan-Gurjar/git_demo/blob/main/Machine%20Learning%20with%20Sound%20Certificate.jpg)
 </details>
 <hr>
 <br>
