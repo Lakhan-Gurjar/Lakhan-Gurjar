@@ -109,7 +109,7 @@
 </p> 
 <br>
 
-### My Certificates [1] 
+### My Certificates [1] 🏅
 <details>
   <summary>:zap: LinkedIn Certificates [1].</summary>
 
