@@ -67,24 +67,8 @@
 <img height="100" width="100" src="right.webp"/>
 </p>
 
----
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-
-
-
-
-<!--END_SECTION:activity-->
-
----
-
-
 
 ### Contact me 📫
-
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lakhan-gurjar-a693b8286" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
