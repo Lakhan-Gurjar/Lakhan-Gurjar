@@ -67,6 +67,21 @@
 <img height="100" width="100" src="right.webp"/>
 </p>
 
+---
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+
+
+
+<!--END_SECTION:activity-->
+
+---
+
+
+
 ### Contact me 📫
 
 
