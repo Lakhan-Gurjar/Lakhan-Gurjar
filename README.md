@@ -110,6 +110,16 @@
 
 <hr>
 
+---
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+---
+
 ### My Certificates [3] 🏅
 <details>
   <summary>:zap: LinkedIn Certificates [1].</summary>
