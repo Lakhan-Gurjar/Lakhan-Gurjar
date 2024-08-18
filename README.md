@@ -58,7 +58,7 @@
   <br>
 - 📚 I’m currently learning **Data Structure and algorithms**.
   <br>
-- 🎯 I’m focusing on **Web Development**.
+<!-- - 🎯 I’m focusing on **Web Development**. -->
 <br>
 
 <br>
