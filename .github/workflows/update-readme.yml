@@ -9,6 +9,7 @@ on:
   watch:
   schedule:
     - cron: "* * * * *"
+
 jobs:
   build:
     name: Update this repo's README with recent activity
@@ -18,10 +19,49 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      - uses: jamesgeorge007/github-activity-readme@v0.4.4
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'  # Node.js version to use
+      - name: Update README with recent activity
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const { Octokit } = require("@octokit/rest");
+            const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
+
+            const owner = context.repo.owner;
+            const repo = context.repo.repo;
+
+            const { data: issues } = await octokit.issues.listForRepo({
+              owner,
+              repo,
+              state: "open",
+              per_page: 5
+            });
+
+            let content = "## Recent Activity\\n";
+            issues.forEach(issue => {
+              content += `- [${issue.title}](${issue.html_url})\\n`;
+            });
+
+            const readmePath = 'README.md';
+            const { data: readme } = await octokit.repos.getContent({
+              owner,
+              repo,
+              path: readmePath
+            });
+
+            const decodedContent = Buffer.from(readme.content, 'base64').toString('utf-8');
+            const updatedContent = decodedContent.replace(/## Recent Activity[^]*##/, content + "\\n##");
+
+            await octokit.repos.createOrUpdateFileContents({
+              owner,
+              repo,
+              path: readmePath,
+              message: "New activity updated",
+              content: Buffer.from(updatedContent).toString('base64'),
+              sha: readme.sha
+            });
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: "New activity updated"
-          MAX_LINES: 5
-          COMMIT_NAME: GitHub Activity Readme
