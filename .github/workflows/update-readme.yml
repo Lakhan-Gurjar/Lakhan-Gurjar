@@ -32,17 +32,14 @@ jobs:
 
       - name: Update README with recent activity
         run: |
-          echo "## Recent Activity" > activity.md
-          echo "" >> activity.md
-          for issue in ${{ steps.get_issues.outputs.data }}
-          do
-            title=$(echo $issue | jq -r '.title')
-            url=$(echo $issue | jq -r '.html_url')
-            echo "- [$title]($url)" >> activity.md
-          done
-
-          cat activity.md README.md > new_readme.md
-          mv new_readme.md README.md
+          $issues = '${{ steps.get_issues.outputs.data }}' | ConvertFrom-Json
+          $activity = "## Recent Activity`n`n"
+          foreach ($issue in $issues) {
+            $activity += "- [$($issue.title)]($($issue.html_url))`n"
+          }
+          $readmeContent = Get-Content README.md -Raw
+          $newReadmeContent = $activity + "`n" + $readmeContent
+          Set-Content -Path README.md -Value $newReadmeContent
 
       - name: Commit changes
         run: |
