@@ -23,6 +23,8 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: '16'  # Node.js version to use
+      - name: Install dependencies
+        run: npm install @octokit/rest
       - name: Update README with recent activity
         uses: actions/github-script@v6
         with:
