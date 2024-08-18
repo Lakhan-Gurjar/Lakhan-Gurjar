@@ -1,8 +1,14 @@
 name: Update README
 on:
+  pull_request:
+    types: [opened, synchronized, reopened]
+  push:
+    branches:
+      - main
+  fork:
+  watch:
   schedule:
     - cron: "* * * * *"
-  workflow_dispatch:
 jobs:
   build:
     name: Update this repo's README with recent activity
