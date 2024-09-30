@@ -157,6 +157,8 @@
  <img align="center" src="https://img.shields.io/badge/%20%20Press%20to%20watch%20my%202023-%20Github%20unwrapped%20-41c350.svg?logo=github&logoColor=41c350&labelColor=01102d&color=6eb9f2&style=for-the-badge" width="">     -->
 </a><br/><br/>
  <div align="center">
+
+  [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 </p >
 <br/>
 </details>
