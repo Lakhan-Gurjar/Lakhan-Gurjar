@@ -158,7 +158,7 @@
 </a><br/><br/>
  <div align="center">
 
-  [![Spotify](https://novatorem.YOUR_VERCEL_DOMAIN.vercel.app/api/spotify)](https://open.spotify.com/user/Lakhan Gurjar)
+  [![Spotify](https://novatorem.YOUR_VERCEL_DOMAIN.vercel.app/api/spotify)](https://open.spotify.com/user/Lakhan_Gurjar)
 
 </p >
 <br/>
