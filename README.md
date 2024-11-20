@@ -35,18 +35,22 @@
 [![Connect on Instragram](https://img.shields.io/badge/--Instagram?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/darshan_in_the_frame/) -->
 </div>
 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20India.webp" alt="Flag India" width="100" height="100" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20India.webp" alt="Flag India" width="100" height="100" />
 
 <!--Cool Gif-->
-
-<a href="https://github.com/walidbosso">   
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="170">
+<a href="https://github.com/Lakhan-Gurjar">   
+<img align ="left" height = 400 width = 430 alt="My Octocat" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/OctoLakhan.png">
+<!-- <img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="170"> -->
 </a>
-
 
 <!-- <img align='left' src="https://media.giphy.com/media/j37kBRJfS4VkGnh1u1/giphy.gif" width="150"> -->
 
-<!--Cool Gif/-->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <!--About-->
 ### Quick facts:
@@ -59,6 +63,8 @@
 <!-- - 🎯 I’m focusing on **Web Development**. -->
 <br>
 
+<br>
+<br>
 <br>
 
 ### Quote ✍️
