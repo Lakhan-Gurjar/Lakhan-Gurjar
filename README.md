@@ -1,19 +1,17 @@
 <p align="center">
- <!-- <img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/gitprofile.gif" width="800px"> 
- <img src="https://user-images.githubusercontent.com/88621342/202923774-e8529a32-8047-4fad-98e0-71b550230481.jpg" alt="Technology Binary Number Programming Wallpaper" style="width: 100%; height: auto;"> -->
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Header Image" style="width: 100%; height: auto;">
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Header Image" style="width: 100%; height: auto;">
 </p>
-<!-- <h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"><𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href="https://www.youtube.com/watch?v=cY4nGCw-JxY"> Lakhan Gurjar </a><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Developer.gif" width="65px"></h1>
-<p align="center">
-  <a href="">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! Myself Lakhan Gurjar;A %20coding%20Enthusiast 👨🏻‍💻; Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
-</p> -->
+
+
 
 <br/>
 <a href="https://github.com/Lakhan-Gurjar"> 
  <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">    
 </a>
 <p align="center">
+
+
+
  
 <a href="https://github.com/Lakhan-Gurjar"> 
  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=Lakhan+Gurjar;Specialized+Bachelor's+Student+%7C+Computer+Science+Engineering+;Coding+Enthusiast+%7C+Eager+Learner; ; " alt="Typing SVG" />
@@ -40,10 +38,7 @@
 <!--Cool Gif-->
 <a href="https://github.com/Lakhan-Gurjar">   
 <img align ="left" height = 400 width = 430 alt="My Octocat" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/OctoLakhan.png">
-<!-- <img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="170"> -->
 </a>
-
-<!-- <img align='left' src="https://media.giphy.com/media/j37kBRJfS4VkGnh1u1/giphy.gif" width="150"> -->
 
 <br>
 <br>
@@ -53,12 +48,14 @@
 <br>
 
 <!--About-->
-### Quick facts:
+### ⚡Quick facts:
 - 👨‍💻 I am currently pursuing B.Tech CSE'27.
   <br>
-- :zap: I’m currently learning `Java` and `Python`.
+- 🌱 I'm currently learning new technologies and improving my skills in backend and frontend development.
   <br>
-- 📚 I’m currently learning **Data Structure and algorithms**.
+- 💼 I’m looking to collaborate on exciting open-source projects.
+  <br>
+- 📚 I’m currently learning **Data Structure and algorithms** using `Java`.
   <br>
 <!-- - 🎯 I’m focusing on **Web Development**. -->
 <br>
@@ -82,7 +79,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/lakhan-gurjar-a693b8286" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:lakhangurjar831@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-<!--   <a href="https://api.whatsapp.com/send?phone=+919636882833&text=Hi!" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white" /></a> -->
   <a href="https://t.me/Lakhan-Gurjar" target="_blank"><img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white" /></a><br>
  
 </p>
@@ -151,24 +147,15 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lakhan-Gurjar&theme=algolia" width="31%" align="left"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lakhan-Gurjar&theme=algolia" width="31%" align="right" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lakhan-Gurjar&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lakhan-Gurjar&theme=algolia" width="31%" align="center" title="🦉 Night owl" />
 </br></br>
  </a>
 
-  
+ ![Lakhan-Gurjar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lakhan-Gurjar&theme=algolia) 
  [![Lakhan's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Lakhan-Gurjar&theme=algolia&card_width=1000)](https://github.com/Lakhan-Gurjar) </br></br>
 [![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Lakhan-Gurjar&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/Lakhan-Gurjar) </br>
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Lakhan-Gurjar&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues)](https://github.com/Lakhan-Gurjar) 
-</div>
- 
-
-<!--  <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLakhan-Gurjar%2Fhit-counter&count_bg=%6EB9F2&title_bg=%01102D&icon=workplace.svg&icon_color=%41C350&title=Profile+Views&edge_flat=true" width="">    
- <img align="center" src="https://img.shields.io/badge/%20%20Press%20to%20watch%20my%202023-%20Github%20unwrapped%20-41c350.svg?logo=github&logoColor=41c350&labelColor=01102d&color=6eb9f2&style=for-the-badge" width="">     -->
+</div> 
 </a><br/><br/>
- <div align="center">
-
-  [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31mb3dm2wxchbusj3nzf2lleuj5i?si=248379f03c804a68)
-
 </p >
 <br/>
 </details>
@@ -214,17 +201,11 @@
 
 <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/marquee.svg"/> 
 
-<a href="https://github.com/Lakhan-Gurjar"> 
+<!-- <a href="https://github.com/Lakhan-Gurjar"> 
  <img align="center" src="skills.png" width="100%">   
-</a>
+</a> -->
 
 </div>
-
-
-
-
-
-
 
 
 
