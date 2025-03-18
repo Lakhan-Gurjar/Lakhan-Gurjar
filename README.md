@@ -93,7 +93,7 @@
   <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/cplusplus-original.svg" alt="C++" width="40" height="40"/></code> 
   <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/java-original.svg" alt="Java" width="40" height="40"/></code> 
   <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/html5-original-wordmark.svg" alt="html5" height="40"/></code> 
-<!--   <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/css3-original-wordmark.svg" alt="css3" height="40"/></code>  -->
+  <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/css3-original-wordmark.svg" alt="css3" height="40"/></code> 
   <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/git-scm-icon.svg" alt="git" width="40" height="40"/></code> 
   <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/github-mark-white.svg" alt="github" width="40" height="40"/></code> 
 <!--  <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></code>  -->
