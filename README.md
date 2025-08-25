@@ -41,7 +41,7 @@ For more details on me: [Portfolio](website link)
 ## 👨🏻‍💻 Tools and Editors
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Hoppscotch](https://img.shields.io/badge/-Hoppscotch-A855F7?style=flat&logo=hoppscotch&logoColor=white) <!-- Will learn soon ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) --> ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white) ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white) ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white) <!-- ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white) -->
 <!-- ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) -->
 
 </br>
@@ -69,7 +69,7 @@ For more details on me: [Portfolio](website link)
  </a>
 
  ![Lakhan-Gurjar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lakhan-Gurjar&theme=algolia) </br> </br>
- [![Lakhan's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Lakhan-Gurjar&theme=algolia&card_width=1000)](https://github.com/Lakhan-Gurjar) </br></br>
+[![Lakhan's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Lakhan-Gurjar&theme=algolia&card_width=1000)](https://github.com/Lakhan-Gurjar) </br></br>
 [![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Lakhan-Gurjar&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/Lakhan-Gurjar) </br>
 
 <p align="center">
